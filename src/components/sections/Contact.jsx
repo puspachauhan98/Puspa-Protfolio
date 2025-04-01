@@ -91,6 +91,16 @@ export const Contact = () => {
               Send Message
             </button>
           </form>
+          <div className="mt-6 text-center">
+            <a
+              href="https://github.com/puspachauhan98?tab=repositories"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-500 hover:underline"
+            >
+              Visit My GitHub
+            </a>
+          </div>
         </div>
       </RevealOnScroll>
     </section>

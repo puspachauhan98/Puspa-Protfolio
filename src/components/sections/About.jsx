@@ -16,7 +16,11 @@ export const About = () => {
           <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
             <p className="text-gray-300 mb-6">
               I am committed to learning, growing, and contributing to
-              innovative projects in the exciting world of web development.
+              innovative projects in the exciting world of web development. I
+              enjoy building dynamic and interactive web applications that offer
+              a great user experience."I have hands-on experience with HTML,
+              CSS, JavaScript, Tailwind CSS, and React. I am continuously
+              learning new technologies to keep my skills up to date.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
